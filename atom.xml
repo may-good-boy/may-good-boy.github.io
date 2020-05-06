@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://may-good-boy.github.io/"/>
-  <updated>2020-05-06T00:34:31.290Z</updated>
+  <updated>2020-05-06T04:46:31.911Z</updated>
   <id>https://may-good-boy.github.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>mysql基础</title>
+    <link href="https://may-good-boy.github.io/2020/050617251.html"/>
+    <id>https://may-good-boy.github.io/2020/050617251.html</id>
+    <published>2020-05-06T04:45:19.000Z</published>
+    <updated>2020-05-06T04:46:31.911Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;##本单元目标&lt;br&gt;    一、为什么要学习数据库&lt;br&gt;    二、数据库的相关概念&lt;br&gt;        DBMS、DB、SQL&lt;br&gt;    三、数据库存储数据的特点&lt;br&gt;    四、初始MySQL&lt;br&gt;        MySQL产品的介绍&lt;br&gt;      
+        
+      
+    
+    </summary>
+    
+    
+      <category term="mysql" scheme="https://may-good-boy.github.io/categories/mysql/"/>
+    
+    
+      <category term="mysql" scheme="https://may-good-boy.github.io/tags/mysql/"/>
+    
+      <category term="sql" scheme="https://may-good-boy.github.io/tags/sql/"/>
+    
+  </entry>
+  
+  <entry>
     <title>jupyter-notebook快捷键</title>
     <link href="https://may-good-boy.github.io/2020/050636131.html"/>
     <id>https://may-good-boy.github.io/2020/050636131.html</id>
     <published>2020-05-06T00:33:15.000Z</published>
-    <updated>2020-05-06T00:34:31.290Z</updated>
+    <updated>2020-05-06T00:34:41.145Z</updated>
     
     <summary type="html">
     

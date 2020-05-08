@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://may-good-boy.github.io/"/>
-  <updated>2020-05-07T15:35:07.750Z</updated>
+  <updated>2020-05-08T00:15:30.139Z</updated>
   <id>https://may-good-boy.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>用户研究</title>
+    <link href="https://may-good-boy.github.io/2020/050859840.html"/>
+    <id>https://may-good-boy.github.io/2020/050859840.html</id>
+    <published>2020-05-08T00:14:34.000Z</published>
+    <updated>2020-05-08T00:15:30.139Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;什么是用户研究&quot;&gt;&lt;a href=&quot;#什么是用户研究&quot; class=&quot;headerlink&quot; title=&quot;什么是用户研究&quot;&gt;&lt;/a&gt;什么是用户研究&lt;/h3&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="数据分析" scheme="https://may-good-boy.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="数据分析理论" scheme="https://may-good-boy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%90%86%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>数据仓库研究</title>
     <link href="https://may-good-boy.github.io/2020/050717276.html"/>
     <id>https://may-good-boy.github.io/2020/050717276.html</id>
     <published>2020-05-07T15:34:16.000Z</published>
-    <updated>2020-05-07T15:35:07.750Z</updated>
+    <updated>2020-05-07T15:35:17.474Z</updated>
     
     <summary type="html">
     
@@ -573,36 +600,6 @@
       <category term="数据分析" scheme="https://may-good-boy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
     
       <category term="tableau" scheme="https://may-good-boy.github.io/tags/tableau/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>mysql排名函数</title>
-    <link href="https://may-good-boy.github.io/2020/042851350.html"/>
-    <id>https://may-good-boy.github.io/2020/042851350.html</id>
-    <published>2020-04-28T09:28:29.000Z</published>
-    <updated>2020-04-28T09:34:35.427Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;排序函数&quot;&gt;&lt;a href=&quot;#排序函数&quot; class=&quot;headerlink&quot; title=&quot;排序函数&quot;&gt;&lt;/a&gt;排序函数&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;h5 id=&quot;row-number&quot;&gt;&lt;a href=&quot;#row-number&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="mysql" scheme="https://may-good-boy.github.io/categories/mysql/"/>
-    
-    
-      <category term="数据分析" scheme="https://may-good-boy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
-    
-      <category term="mysql" scheme="https://may-good-boy.github.io/tags/mysql/"/>
     
   </entry>
   

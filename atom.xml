@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://may-good-boy.github.io/"/>
-  <updated>2020-05-07T10:02:37.279Z</updated>
+  <updated>2020-05-07T15:35:07.750Z</updated>
   <id>https://may-good-boy.github.io/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数据仓库研究</title>
+    <link href="https://may-good-boy.github.io/2020/050717276.html"/>
+    <id>https://may-good-boy.github.io/2020/050717276.html</id>
+    <published>2020-05-07T15:34:16.000Z</published>
+    <updated>2020-05-07T15:35:07.750Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;大数据体系：高度要够，熟悉整个行业，专于某个模块&quot;&gt;&lt;a href=&quot;#大数据体系：高度要够，熟悉整个行业，专于某个模块&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="数据分析" scheme="https://may-good-boy.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="数据分析" scheme="https://may-good-boy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+      <category term="数据分析理论" scheme="https://may-good-boy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%90%86%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>行业分析</title>
+    <link href="https://may-good-boy.github.io/2020/050720031.html"/>
+    <id>https://may-good-boy.github.io/2020/050720031.html</id>
+    <published>2020-05-07T14:41:53.000Z</published>
+    <updated>2020-05-07T14:42:48.586Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;行业分析的两种背景&quot;&gt;&lt;a href=&quot;#行业分析的两种背景&quot; class=&quot;headerlink&quot; title=&quot;行业分析的两种背景&quot;&gt;&lt;/a&gt;行业分析的两种背景&lt;/h3&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="数据分析" scheme="https://may-good-boy.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="数据分析" scheme="https://may-good-boy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+      <category term="数据分析理论" scheme="https://may-good-boy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%90%86%E8%AE%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>AB测试存档</title>
@@ -545,63 +603,6 @@
       <category term="数据分析" scheme="https://may-good-boy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
     
       <category term="mysql" scheme="https://may-good-boy.github.io/tags/mysql/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>转型参考</title>
-    <link href="https://may-good-boy.github.io/2020/042718758.html"/>
-    <id>https://may-good-boy.github.io/2020/042718758.html</id>
-    <published>2020-04-27T11:16:16.000Z</published>
-    <updated>2020-04-27T11:18:52.745Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;当你真的用心去做一件事时，整个世界都会帮你&quot;&gt;&lt;a href=&quot;#当你真的用心去做一件事时，整个世界都会帮你&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="数据分析" scheme="https://may-good-boy.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
-    
-    
-      <category term="数据分析理论" scheme="https://may-good-boy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%90%86%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>RFM模型</title>
-    <link href="https://may-good-boy.github.io/2020/042744945.html"/>
-    <id>https://may-good-boy.github.io/2020/042744945.html</id>
-    <published>2020-04-27T11:12:09.000Z</published>
-    <updated>2020-04-27T11:14:48.785Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;创建计算字段：购买点会员生命周期&lt;/p&gt;
-&lt;h3 id=&quot;RFM模型&quot;&gt;&lt;a href=&quot;#RFM模型&quot; class=&quot;headerlink&quot; title=&quot;RFM模型&quot;&gt;&lt;/a&gt;RFM模型&lt;/h3&gt;&lt;p&gt;​   
-        
-      
-    
-    </summary>
-    
-    
-      <category term="数据分析" scheme="https://may-good-boy.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
-    
-    
-      <category term="数据分析" scheme="https://may-good-boy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
-    
-      <category term="数据分析理论" scheme="https://may-good-boy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%90%86%E8%AE%BA/"/>
     
   </entry>
   
